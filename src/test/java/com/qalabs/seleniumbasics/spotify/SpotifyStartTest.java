@@ -1,4 +1,4 @@
 package com.qalabs.seleniumbasics.spotify;
 
-public class BaseTest {
+public class SpotifyStartTest {
 }

@@ -2,7 +2,7 @@
 <suite name="testCases" verbose="1">
     <test name="Basic Regresion">
         <classes>
-            <class name="com.qalabs.seleniumbasics.spotify.BaseTest">
+            <class name="com.qalabs.seleniumbasics.spotify.SpotifyStartTest">
                 <methods>
                     <include name="openGoogle"/>
                 </methods>>

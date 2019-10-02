@@ -1,4 +1,4 @@
 package com.qalabs.javabasics.spotify.components;
 
-public class BaseElement {
+public class HomeHeaderComponent {
 }

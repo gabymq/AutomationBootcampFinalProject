@@ -160,3 +160,5 @@ hs_err_pid*
 
 # other files
 .DS_Store
+README.md
+SpotifyAutomationTesting.log
